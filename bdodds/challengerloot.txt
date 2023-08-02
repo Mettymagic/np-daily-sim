@@ -1,0 +1,1861 @@
+Flaming Meerca 1
+Flaming Dagger Of Fire - 2 %
+Flaming Scroll - 2 %
+Cooking with Faerie Fire - 2 %
+Dark Fire Potion - 2 %
+Fire Bush - 2 %
+nothing - 90 %
+ 
+ 
+Flaming Meerca 2
+Flaming Dagger Of Fire - 2 %
+Flaming Scroll - 2 %
+Bottle of Fire Sand - 2 %
+Fire Dartboard - 2 %
+Fire Faerie Breath Mints - 2 %
+nothing - 90 %
+ 
+ 
+Flaming Meerca 3
+Flaming Dagger Of Fire - 2 %
+Flaming Scroll - 2 %
+Flaming Super Hot Pasty - 2 %
+Fire Faerie Magic - 2 %
+Fire Dartboard - 2 %
+nothing - 90 %
+ 
+ 
+Count Von Roo 2
+Wooden Vampire Stake - 2.9 %
+Candy Vampire - .01 %
+Phases of the Moon - .05 %
+Moon Dust Scroll - 8 %
+nothing - 95 %
+The Legend of Count von Roo - 1 %
+Count Von Roo Pinata - 1 %
+ 
+ 
+Count Von Roo 1
+Count Von Roo Pinata - 5 %
+The Legend of Count von Roo - 5 %
+Count von Roo Bouncy Ball - 5 %
+Strawberry Vampire Pop - 15 %
+nothing - 70 %
+ 
+ 
+Sabre-X 3
+nothing - 90 %
+Tyrannian Lupe Tooth - 1 %
+Bony Bracers - 2 %
+Cave Lupe Neoquest Plushie - 1 %
+Dire Lupe Neoquest Plushie - 1 %
+Lupe Wand - 1 %
+ 
+ 
+Lava Ghoul 1
+Boiling Hot Lava Soup - 2 %
+nothing - 90 %
+Fun Lava Facts - 2 %
+Tonguebeans - 1 %
+Tongue Shrinker - 1 %
+Pumpkin Slice - 1 %
+Ghoulish Mask - .7 %
+Undead Carrot - 1 %
+Spicy Tofu Satay - 1 %
+ 
+ 
+Lava Ghoul 3
+Lava Arrow - 2 %
+nothing - 90 %
+Lava Monster Stamp - 2 %
+Lava Art Projects - 2 %
+Tyrannian Volcano Lair Background - 1 %
+Wuzzle - 2 %
+Fiery Bone Bow - 2 %
+Cures for Bad Breath - .5 %
+ 
+ 
+Lava Ghoul 2
+Dried Lava Crisps - 3 %
+nothing - 90 %
+Undead Celery - 3 %
+Undead Broccoli - 3 %
+Bottled Volcano Steam - 3 %
+Lava Latte - 3 %
+ 
+ 
+Balthazar 3
+Balthazar Claw - .0000001 %
+Balthazar the Bounty Hunter - .00001 %
+Bottled Faerie Stamp - .1 %
+Blue Lupe Morphing Potion - .001 %
+nothing - 98 %
+Gigantic Balthazar Plushie - 1 %
+Balthazar Action Figure - 1 %
+Inflatable Balthazar - 1 %
+ 
+ 
+Tiki Tack Man 1
+nothing - 90 %
+The Blue Tiki Sands of Time - 3 %
+Tombola Tips - 3 %
+Joy of Fruit - 3 %
+Exfoliating Sand Soap - 3 %
+Caramel Sand Apple - 3 %
+ 
+ 
+Tiki Tack Man 2
+nothing - 90 %
+Tacky Porcelain Skeith - 3 %
+Tacky Porcelain Aisha - 3 %
+Chokato Jam - 3 %
+Mystery Island Kacheekers - 3 %
+Mystery Island Travel Stamp - 3 %
+ 
+ 
+Tiki Tack Man 3
+nothing - 90 %
+Holiday Tiki Palm - 3 %
+Plain Black Sunglasses - 3 %
+Pineapple Breeze - 3 %
+Tropical Flora and Fauna - 3 %
+Usuki Beach Accessories - 3 %
+ 
+ 
+Ryshu the Nimmo 1
+Ryshu Stamp - .8 %
+nothing - 90 %
+Brightvale Guard Training Manual - 2 %
+Training School Myths - 2 %
+Fighting Fire with Fire - 2 %
+Illusens Sword Techniques - 1 %
+Green Tea Latte - 2 %
+Dark Island Palm Tree - 1 %
+ 
+ 
+Ryshu the Nimmo 2
+nothing - 90 %
+Zafara Guardian Statue - 2 %
+Techo Master Tactics - 2 %
+Primella - .08 %
+Illusen Tea - 2 %
+Flatfruit Bubble Tea - 2 %
+Dark Nova Fruit - 2 %
+ 
+ 
+Ryshu the Nimmo 3
+nothing - 90 %
+Silver Sai - 1 %
+Ghostkerfish - .08 %
+Pink Negg Tea - 2 %
+Nimmo Lily Stones - 2 %
+Bow of the Hegelob - 2 %
+ 
+ 
+Tekkitu the Witch Doctor 3
+Tekkitu Plushie - 1 %
+nothing - 90 %
+Sugar Moehog Skull - .05 %
+Advanced Magic - 1 %
+Magic Goop - 2 %
+Flaming Blooble Potion - 2 %
+ 
+ 
+Ghost Lupe 3
+The Ghost Lupe Plushie - .08 %
+nothing - 90 %
+Viras Revenge - 1 %
+Spirit Bottle - 2 %
+Wand of the Light Faerie - 2 %
+Stormy Negg - 3 %
+ 
+ 
+Ghost Lupe 1
+Ghost Lupe Spooky Stories - 1 %
+nothing - 90 %
+By the Seashore - 1 %
+Beach Vacations - 1 %
+Native Nimmos - 1 %
+JubJub Natives - 1 %
+Nimmo Meditation - 1 %
+ 
+ 
+Snow Faerie 3
+Frozen Foods with Taelia - 2 %
+nothing - 90 %
+Fur Lined Bracers - 1 %
+Blue Fur Lined Cloak - 1 %
+Ornate Fur Trimmed Robe - 1 %
+Snow Gyro - 1 %
+Snow Broccoli - 1 %
+ 
+ 
+Snow Faerie 1
+Taelia Pizza Slice - 2 %
+nothing - 90 %
+Guide to Neopian Snowflakes - 2 %
+Snow Architecture - 2 %
+Simple Fur Lined Cape - 2 %
+Tyrannian Fur Rug - 2 %
+ 
+ 
+The Snowager 2
+nothing - 90 %
+Cryogenically Frozen Negg - .08 %
+Chilled Borovan with Frozen Asparagus - 2 %
+Frozen Wand of Crystals - 2 %
+Frozen Veggie Delight - 2 %
+Bzzt Blaster Coin - .06 %
+ 
+ 
+The Snowager 3
+Snowager Stamp - .02 %
+nothing - 90 %
+Supersize Gargantuplex - .08 %
+Black Frost Cannon - 1 %
+Frozen Slorg Helm - 1 %
+Frozen Strawberries and Cream - 2 %
+ 
+ 
+Lady Frostbite 1
+Lady Frostbite Action Figure - 2 %
+nothing - 90 %
+Lost Cybunny - .08 %
+Seaweed Design Maractite Coin - .08 %
+Seaweed Salad - 1 %
+Seaweed Paste - 1 %
+Evil Plots For Beginners - .08 %
+ 
+ 
+Valin 3
+Valin Plushie - .2 %
+nothing - 90 %
+Mynci Brain Sandwich - 2 %
+Icy Notepad - 2 %
+Spicy Kau Burger - 2 %
+Icy Magic Hat - 1 %
+ 
+ 
+Giant Space Fungus 3
+nothing - 90 %
+Space Fungus Sundae - 2 %
+Bubbling Fungus - 2 %
+Space Fungus Action Figure - 1 %
+Baby Space Fungus - .5 %
+Meteor Bomb - .5 %
+ 
+ 
+Giant Space Fungus 1
+Attack of the Giant Space Fungus - 1 %
+nothing - 90 %
+Space-Fungused Cheese Cracker - 2 %
+Crumble Fungus - 2 %
+Asparagus Powered Ray Gun - .8 %
+Giant Goo Blaster - .8 %
+ 
+ 
+Giant Space Fungus 2
+nothing - 90 %
+Baby Space Fungus Plushie - .5 %
+Dehydrated Fungus - 2 %
+Space Fungus Plushie - 1 %
+Virtupets Energy Sabre - 1 %
+Screwtop - .8 %
+ 
+ 
+Jetsam Ace 1
+The Jetsam Ace - 1 %
+nothing - 90 %
+Rocket Fizzy Drink - 2 %
+Space Rocks: A Visual Encyclopedia - 1 %
+Space Slug Soup - 2 %
+Mathematics In Space - 1 %
+ 
+ 
+Punchbag Bob 1
+Lupe Punching Bag - 2 %
+Eyrie Punching Bag - 2 %
+Aisha Punching Bag - 2 %
+Evil Twin Goatee - .08 %
+Scroll of Trickery - 2 %
+nothing - 90 %
+ 
+ 
+Punchbag Bob 2
+nothing - 90 %
+Lupe Punching Bag - 2 %
+Eyrie Punching Bag - 2 %
+Aisha Punching Bag - 2 %
+Punchbag Sid Backpack - .08 %
+Scroll of Trickery - .08 %
+ 
+ 
+Inflatable Balthazar 1
+nothing - 33 %
+Balthazar Pinata - 33 %
+Balthazar T-shirt - 33 %
+ 
+ 
+Inflatable Balthazar 2
+Chocolate Balthazar - 50 %
+Gigantic Balthazar Plushie - 50 %
+nothing - 30 %
+ 
+ 
+Inflatable Balthazar 3
+Inflatable Balthazar - 50 %
+Balthazar Action Figure - 50 %
+nothing - 30 %
+ 
+ 
+Chia Clown 1
+Chia Clown Ball - 2 %
+Chia Clown Punching Bag - 2 %
+Wind Up Chia Clown - 2 %
+nothing - 90 %
+Carnival of Terror Clown Sprinkler - 2 %
+Silly Clown Usuki - 2 %
+ 
+ 
+Chia Clown 2
+Chia Clown Ball - 2 %
+Chia Clown Punching Bag - 2 %
+Wind Up Chia Clown - 2 %
+nothing - 90 %
+Carnival of Terror Clown Sprinkler - 2 %
+Silly Clown Usuki - 2 %
+ 
+ 
+Chia Clown 3
+Chia Clown Ball - 2 %
+Chia Clown Punching Bag - 2 %
+Wind Up Chia Clown - 2 %
+nothing - 90 %
+Carnival of Terror Clown Sprinkler - 2 %
+Silly Clown Usuki - 2 %
+ 
+ 
+Punchbag Bob 3
+nothing - 90 %
+Lupe Punching Bag - 2 %
+Eyrie Punching Bag - 2 %
+Aisha Punching Bag - 2 %
+Punchbag Sid Backpack - .08 %
+Scroll of Trickery - .08 %
+ 
+ 
+Ghost Lupe 2
+Sloth Beach Ball - 2 %
+Shell Beach Background - .05 %
+nothing - 90 %
+Steaming Green Tea - 2 %
+Ship Ropes Handheld - 2 %
+Rocky Relationships - 1 %
+ 
+ 
+Boochi 3
+Boochi Pinata - 1 %
+Chokato Baby Food - 2 %
+Chomby Baby Food - 1 %
+Baby Bath Time - 1 %
+Baby Bruce Milk Bottle - 2 %
+nothing - 90 %
+ 
+ 
+Boochi 2
+Avocado Baby Food - 2 %
+Chokato Baby Food - 2 %
+Chomby Baby Food - 1 %
+Baby Bath Time - 1 %
+Baby Bruce Milk Bottle - 2 %
+nothing - 90 %
+ 
+ 
+Boochi 1
+Pea and Ham Baby Food - 2 %
+Strawberries and Cream Baby Food - 2 %
+Chomby Baby Food - 1 %
+Baby Bath Time - 1 %
+Baby Bruce Milk Bottle - 2 %
+nothing - 90 %
+ 
+ 
+Eyrieki 1
+Chokato Eyrie Cake - 2 %
+Darigan Eyrie Action Figure - 2 %
+Eyrie Gumbo - 2 %
+Eyrie Loveberripop - 2 %
+Red Eyrie Painting - 2 %
+nothing - 90 %
+ 
+ 
+Eyrieki 2
+Chokato Eyrie Cake - 2 %
+Disco Eyrie Plushie - 1 %
+Iced Eyrie Cupcake - 2 %
+Shadow Eyrie Plushie - 1 %
+Red Eyrie Painting - 2 %
+nothing - 90 %
+ 
+ 
+Eyrieki 3
+Baby Eyrie Plushie - 1 %
+Disco Eyrie Plushie - 1 %
+Robo Eyrie - 2 %
+Shadow Eyrie Plushie - 1 %
+Red Eyrie Painting - 2 %
+nothing - 90 %
+ 
+ 
+Kasuki Lu 2
+Kasuki Lu Biography - 1 %
+Ornate Bowl of Oranges - 2 %
+Chocolate Battle Biscuit - 2 %
+Battle Ready Pencil Box - 2 %
+Training School Myths - 1 %
+nothing - 90 %
+ 
+ 
+Kasuki Lu 3
+Kasuki Lu Biography - 1 %
+Steamed Vegetable Dumplings - 2 %
+Chocolate Chip Battle Biscuit - 2 %
+Battle Ready Pencil Box - 2 %
+Training School Myths - 1 %
+nothing - 90 %
+ 
+ 
+Kasuki Lu 1
+Kasuki Lu - 2 %
+Bamboo Tea - 2 %
+Battle Biscuit - 2 %
+Battle Ready Pencil Box - 2 %
+Training School Myths - 1 %
+nothing - 90 %
+ 
+ 
+Kauvara 1
+Kauvara Bean Bag - 2 %
+Brain Of Mirgle - 2 %
+Kauvara Plushie - 2 %
+History of the Strength Potion - 2 %
+Super Deluxe Kau Bell - 2 %
+nothing - 90 %
+ 
+ 
+Kauvara 2
+Kauvara Rug - 2 %
+Bloodberry Elixir - 2 %
+Kauvara Plushie - 2 %
+History of the Strength Potion - 2 %
+Super Deluxe Kau Bell - 2 %
+nothing - 90 %
+ 
+ 
+Kauvara 3
+Kauvara Sofa - 2 %
+Bloodberry Elixir - 2 %
+Kauvara Plushie - 2 %
+History of the Strength Potion - 2 %
+Super Deluxe Kau Bell - 2 %
+nothing - 90 %
+ 
+ 
+Down For Maintenance Pteri 2
+404 Shirt - 1 %
+Chocolate Dipped Pteri Tail - 2 %
+Golden Pteri Shield - 1 %
+Heroic Pteri Tales - 1 %
+Pteri House - 1 %
+nothing - 90 %
+ 
+ 
+Down For Maintenance Pteri 3
+404 Shirt - 1 %
+Chocolate Dipped Pteri Tail - 2 %
+Golden Pteri Shield - 1 %
+Forbidden Pteri Tales - .08 %
+Pteri House - 1 %
+nothing - 90 %
+ 
+ 
+Down For Maintenance Pteri 1
+Chocolate Pteri Eggs - 2 %
+Chocolate Dipped Pteri Tail - 2 %
+Drinking Pteri Toy - 2 %
+How to Make A Pteri Plush Doll - 1 %
+Pteri Kabob - 2 %
+nothing - 90 %
+ 
+ 
+Vira 1
+Vira Pinata - 2 %
+Viras Revenge - 2 %
+Vira Halloween Costume - 2 %
+Darigan Hand Mirror - 2 %
+Acara Cabbage Cake - 2 %
+nothing - 90 %
+ 
+ 
+Vira 2
+Vira Bookmark - 2 %
+Vira Pen - 2 %
+Viras Revenge - 2 %
+Darigan Hand Mirror - 2 %
+Acara Cabbage Cake - 2 %
+nothing - 90 %
+ 
+ 
+Vira 3
+Vira Bookmark - 2 %
+Vira Pen - 2 %
+Viras Revenge - 2 %
+Snotty Vira Onion - 2 %
+nothing - 90 %
+Acara Cabbage Cake - 2 %
+ 
+ 
+Tax Beast 1
+Tax Beast Pinata - 2 %
+Lime and Chocolate Yurble Cupcake - 2 %
+Lime Yurblecone - 2 %
+The Scaredy Yurble - 1 %
+Beast Burger - 2 %
+nothing - 90 %
+ 
+ 
+Tax Beast 2
+Stack of Tax Return Forms - 1 %
+Lime and Chocolate Yurble Cupcake - 2 %
+Halloween Yurble Plushie - 2 %
+Yurble Style - 1 %
+Beast Burger - 2 %
+nothing - 90 %
+ 
+ 
+Tax Beast 3
+Stack of Tax Return Forms - 1 %
+Tax Beast Plushie - .08 %
+Halloween Yurble Plushie - 2 %
+Yurble Style - 1 %
+Beast Burger - 2 %
+nothing - 90 %
+ 
+ 
+Punchbag Bob 1
+Punchbag Bob Plushie - 1 %
+Punchbag Bob Pencil Case - 1 %
+Lupe Punching Bag - 2 %
+Eyrie Punching Bag - 2 %
+Aisha Punching Bag - 2 %
+nothing - 90 %
+ 
+ 
+Punchbag Bob 2
+Lupe Punching Bag - 2 %
+Eyrie Punching Bag - 2 %
+Aisha Punching Bag - 2 %
+Punchbag Bob Backpack - 1 %
+Punching Punchbag Bob Pen - 1 %
+nothing - 90 %
+ 
+ 
+Punchbag Bob 3
+Lupe Punching Bag - 2 %
+Eyrie Punching Bag - 2 %
+Aisha Punching Bag - 2 %
+Punchbag Bob Backpack - 1 %
+Punching Punchbag Bob Pen - 1 %
+nothing - 90 %
+ 
+ 
+Shadow Usul 1
+Shadow Usul Lunch Box - 2 %
+Shadow Usul Pinata - 2 %
+Shadow Usul - 2 %
+Cursed Wand of Shadow - 2 %
+Shadowy Swiss Roll - 2 %
+nothing - 90 %
+ 
+ 
+Shadow Usul 2
+Shadow Usul Lunch Box - 2 %
+Shadow Usul Pinata - 2 %
+Shadow Usul - 2 %
+Cursed Wand of Shadow - 2 %
+Shadowy Swiss Roll - 2 %
+nothing - 90 %
+ 
+ 
+Shadow Usul 3
+Shadow Usul Lunch Box - 2 %
+Shadow Usul Plushie - 2 %
+Shadow Usul Stories - 2 %
+Cursed Wand of Shadow - 2 %
+Shadowy Swiss Roll - 2 %
+nothing - 90 %
+ 
+ 
+Lab Ray Scientist 1
+Science is Fun! - 1 %
+Scientific Flash Cards - 1 %
+Science Textbook - 1 %
+Cococrazy Ice Lolly - 2 %
+Crazy Crisp Taco - 2 %
+nothing - 90 %
+ 
+ 
+Lab Ray Scientist 2
+Science is Fun! - 1 %
+Scientific Flash Cards - 1 %
+Science Textbook - 1 %
+Lab Ray Usuki Set - .08 %
+Cococrazy Ice Lolly - 2 %
+nothing - 90 %
+ 
+ 
+Lab Ray Scientist 3
+Lab Ray Mad Scientist Plushie - .05 %
+Science Textbook - 1 %
+Lab Ray Usuki Set - .08 %
+Cococrazy Ice Lolly - 2 %
+Experimental Physics - 1 %
+nothing - 90 %
+ 
+ 
+Turmaculus 1
+Turmaculus Stamp - .08 %
+Turmaculus Pinata - 2 %
+Turmac Roll Yo-Yo - 2 %
+Turmac Tape Dispenser - 2 %
+Turmac Snacks - 1 %
+nothing - 90 %
+ 
+ 
+Turmaculus 2
+Turmaculus Action Figure - 1 %
+Turmaculus Stamp - .08 %
+Turmaculus Pinata - 2 %
+Turmac Roll Yo-Yo - 2 %
+Continuous Meat - 2 %
+nothing - 90 %
+ 
+ 
+Turmaculus 3
+Turmaculus Action Figure - 1 %
+Turmac Bank - 2 %
+Turmac Roll Yo-Yo - 2 %
+Turmac Tape Dispenser - 2 %
+Continuous Meat - 2 %
+nothing - 90 %
+ 
+ 
+Mootix Warrior 1
+Mootix Farm - 2 %
+Mootix Paratrooper Action Figure - 2 %
+Mootix Petpet Bed - 2 %
+Mootix Pull Along Toy - 2 %
+Smug Bug Spray - 2 %
+nothing - 90 %
+ 
+ 
+Mootix Warrior 2
+Mootix Petpet Bed - 2 %
+Mootix Pen - 2 %
+Mootix Plushie - .08 %
+Mootix Ruler - 2 %
+Mootix Sofa - 2 %
+nothing - 90 %
+ 
+ 
+Mootix Warrior 3
+Mootix Pen - 2 %
+Mootix Pencil Case - 2 %
+Mootix Plushie - .08 %
+Mootix Ruler - 2 %
+Cherry Mootix Lollypop - 2 %
+nothing - 90 %
+ 
+ 
+Neggbreaker 1
+Wind Up Bouncing Hasee - 1 %
+Colourful Negg Pizza - 1 %
+Negg Noodle Soup - 1 %
+Negg - .08 %
+Glass Negg - .08 %
+nothing - 90 %
+ 
+ 
+Neggbreaker 2
+Hasee Puff Cereal - 2 %
+Ultra Icy Negg - .05 %
+Rainbow Negg Plushie - .08 %
+Rock Negg - 1 %
+Negg Tree - 1 %
+nothing - 90 %
+ 
+ 
+Neggbreaker 3
+Hasee Puff Cereal - 2 %
+Ultra Icy Negg - .08 %
+Rainbow Negg - .08 %
+Pirate Negg - .08 %
+Negg Tree - 1 %
+nothing - 90 %
+ 
+ 
+Tekkitu the Witch Doctor 2
+nothing - 90 %
+Mynci Brain Sandwich - 2 %
+Sugar Ixi Skull - .05 %
+Basic Potion Brewing - 1 %
+History of the Magical Bookshop - 1 %
+Magical Wheel Potion - 2 %
+ 
+ 
+Tekkitu the Witch Doctor 1
+nothing - 90 %
+Kreludan Crosswords - 2 %
+Skelly - .08 %
+Evil Plots For Beginners - 2 %
+Skull and Crossbow - 2 %
+Krawk Sugar Skull - .05 %
+ 
+ 
+Advisor Broo 1
+nothing - 90 %
+Evil Plots For Beginners - 2 %
+Fake Blumaroo Steak - 2 %
+Jazzmosis Blumaroo Plushie - 1 %
+Blumaroo Fashion - 1 %
+Tyrannian Blumaroo Stamp - .08 %
+Blumaroo Ice Cream Sundae - 2 %
+ 
+ 
+Advisor Broo 2
+nothing - 90 %
+Evil Pink Turbo Slippers - 1 %
+Orange Evil Mastermind Chair - 1 %
+Rules to Rule By - 2 %
+Hard Blumaroo Candy - 2 %
+Strawberry Blumaroo Waffles - 2 %
+Snow Blumaroo - 1 %
+Bouncing Blumaroos - 1 %
+ 
+ 
+Advisor Broo 3
+nothing - 90 %
+Mutant Xweetok Plushie - .05 %
+Empower Your Tail - 1 %
+Basic Power Negg - .08 %
+Baby Blumaroos - 1 %
+Blumaroo Tail Salad Extravaganza - 1 %
+Laced Wooden Staff - 2 %
+ 
+ 
+Meerca Henchmen 1
+nothing - 90 %
+Coltzan Negg - 1 %
+Invisible Negg - 1 %
+The Thief Handbook - 1 %
+Knee-deep in Neopoints Foreground - 1 %
+The Sinking Neopoint - 1 %
+ 
+ 
+Meerca Henchmen 2
+nothing - 90 %
+Malkus Vile Book - 1 %
+Vial of Vile - 1 %
+Shield of Coltzan - 2 %
+Brass Gear Goggles - 2 %
+Broken Chocolate Faellie Negg - 2 %
+ 
+ 
+Meerca Henchmen 3
+nothing - 90 %
+Roast Chestnut Neggnog - 2 %
+Holly Jewellery Box - 2 %
+Jewelled Scarab Stamp - .08 %
+Potion of Containment - .08 %
+Magic Goop - .08 %
+Tasty Pie - 2 %
+ 
+ 
+Plumbeard 1
+nothing - 90 %
+Banango Punch - 2 %
+Turnla Pie - 2 %
+Kougra Owabit Shake - 1 %
+Grunion Fruit Grog - 1 %
+Toffee Dubloon - 2 %
+Ten Dubloon Coin - .05 %
+Five Dubloon Coin - .05 %
+ 
+ 
+Plumbeard 2
+nothing - 90 %
+Frozen Prawn Delight - 2 %
+Arr Through Yarr - A Pirates Dictionary - 2 %
+Inflatable Bouncy Pirate Ship - 1 %
+Twenty Dubloon Coin - .02 %
+Golden Water Fountain - 2 %
+Golden Cobrall Spear - 1 %
+ 
+ 
+Plumbeard 3
+nothing - 90 %
+Greengage Breeze - 1 %
+Pirate Kyrii Plushie - .07 %
+Pirate Negg - .05 %
+Pirate Cannon - 1 %
+Fifty Dubloon Coin - .01 %
+Golden Compass - 2 %
+Nurias Golden Dagger - 2 %
+ 
+ 
+Donny 1
+nothing - 90 %
+Repairing Your Petpets - 1 %
+Repairing Your Ship - 1 %
+Paper Book of Paper Toys - 1 %
+Super-Cool Toy Magazine - 1 %
+Budget Shopping Guide - 1 %
+ 
+ 
+Donny 2
+nothing - 90 %
+Stained Glass Repair Guide - 1 %
+Practical Repairs - 1 %
+Kyrii Shopping Guide - 1 %
+Coffee Slushie - 2 %
+Ice Ring - 2 %
+ 
+ 
+Donny 3
+nothing - 90 %
+Red Bori Plushie - 2 %
+Voidberry Slushie - .5 %
+Rose Slushie - 1 %
+Bullseye Snowball - 2 %
+Ice Lolly of Doom - 2 %
+Blue Abominable Snowball - .5 %
+ 
+ 
+Valin 2
+nothing - 90 %
+Puppyblew Ice Shield - 1 %
+Frozen Block of Sustenance - 2 %
+Cup of Frozen Borovan - 2 %
+Ghoulish Mask - 1 %
+Mask Making - 1 %
+ 
+ 
+Valin 1
+nothing - 90 %
+Quick Reference Dictionary - 1 %
+The Thief Handbook - .08 %
+Taelia Toy Wand - 2 %
+Snow Faerie Book - .08 %
+Whole Frozen Corn Pizza - 2 %
+Frozen Snowball - 2 %
+ 
+ 
+Lady Frostbite 2
+nothing - 90 %
+Lost Isle Usuki Set - .08 %
+Cherry Bori Snowcone - 1 %
+Coconut Flake Snowball - 1 %
+Robot Abominable Snowball - .05 %
+Snows of Neopia - 1 %
+ 
+ 
+Lady Frostbite 3
+nothing - 90 %
+Lost Spells of Neopia - .08 %
+Seaweed Tentacle Kimchee - 2 %
+Kookith Sea Sculpture - 2 %
+Abandoned Backpack - 2 %
+Blue Raspberry Bori Snowcone - 2 %
+ 
+ 
+Snow Faerie 2
+nothing - 90 %
+Jar of Symol Fur - 2 %
+Furry Autumn Bushes - 2 %
+Frozen Snowflake Pretzel - 2 %
+Snows of Neopia - 2 %
+Kiko Christmas Story - 2 %
+ 
+ 
+Snow Beast 1
+nothing - 90 %
+Into the Ice Caves - 1 %
+Glowing Pre-Sliced Mushrooms - 2 %
+Ultimate Icy Negg - .05 %
+Caramel Juppie Beast - 2 %
+Snicklebeast Poems - 1 %
+Beast Burger - 2 %
+ 
+ 
+Snow Beast 2
+nothing - 90 %
+Cave Foreground - .08 %
+Horned Collectable Scarab - 1 %
+Snow Fir - .08 %
+Snow Wuzzle - .08 %
+Cooking With Chef Boulgar - 1 %
+Cooking With A Bomberry - 1 %
+ 
+ 
+Snow Beast 3
+nothing - 90 %
+Ice Conker - 2 %
+Crystal Burger - 2 %
+Snow Chumablah - .05 %
+Snow Snuffly - .05 %
+Cooking With Peas - 1 %
+ 
+ 
+The Snowager 1
+nothing - 90 %
+Reject Snowager Usuki - 2 %
+Frozen Block of Sustenance - 2 %
+Cup of Frozen Borovan - 2 %
+Frozen Negg - 2 %
+Goo Blaster Coin - .08 %
+ 
+ 
+Jetsam Ace 2
+nothing - 90 %
+Space Kabob - 2 %
+Exploding Space Bugs Stamp - .8 %
+Adventures In Space - 1 %
+Space Mynci - 1 %
+Space Slushie - 2 %
+ 
+ 
+Jetsam Ace 3
+nothing - 90 %
+Space Faerie Cereal - 2 %
+Space Rock Soup - 2 %
+Space Fashion - 1 %
+Space Faerie Sword - 2 %
+Astral Blade of The Space Station - 2 %
+ 
+ 
+Koi Warrior 1
+Red Koi Plushie - 12 %
+Halloween Koi Plushie - .5 %
+Strawberry Koi Pop - 10 %
+Pink Koi Plushie - .5 %
+nothing - 90 %
+ 
+ 
+Koi Warrior 3
+Spotted Koi Morphing Potion - .001 %
+Woodland Koi Morphing Potion - .0001 %
+Spotted Koi Plushie - .001 %
+Starry Koi Plushie - .001 %
+Fire Koi Plushie - .001 %
+nothing - 97.2 %
+The Missing Koi - 2 %
+Red Koi Plushie - 1 %
+Halloween Koi Plushie - 1 %
+Pink Koi Plushie - 1 %
+ 
+ 
+Koi Warrior 2
+Faerie Koi Plushie - .05 %
+Mutant Koi Plushie - 1 %
+Blue Koi Morphing Potion - .01 %
+Grey Koi Plushie - .5 %
+nothing - 91 %
+The Great Koi Caper - 1 %
+Koi Collector - 5 %
+Red Koi Plushie - 1 %
+Halloween Koi Plushie - 1 %
+ 
+ 
+Giant Spectral Mutant Walein 1
+Walein - 10 %
+nothing - 90 %
+ 
+ 
+Giant Spectral Mutant Walein 2
+Blue Walein - .1 %
+Green Walein - .1 %
+White Walein - .1 %
+Ghost Walein - .1 %
+nothing - 96 %
+Walein - 1 %
+ 
+ 
+Giant Spectral Mutant Walein 3
+Pink Walein T-Shirt - .05 %
+Mutant Walein - .05 %
+Faerie Walein - .001 %
+nothing - 98.5 %
+Blue Walein - .5 %
+Green Walein - .5 %
+Walein - 1 %
+Ghost Walein - .5 %
+White Walein - .5 %
+ 
+ 
+Chiazilla 1
+Chiazilla - 20 %
+Green Chia Plushie - 20 %
+nothing - 95 %
+ 
+ 
+Chiazilla 2
+Chia Book - 2 %
+The Pineapple Chia - 2 %
+Mutant Chia Gnome Plushie - 20 %
+Pea Chia Plushie - 2 %
+nothing - 90 %
+ 
+ 
+Chiazilla 3
+Famous Chias - 1 %
+A Chias Choice - .001 %
+Mechachiazilla - .001 %
+Chianatomy - .001 %
+Magical Apple Chia Pop - .001 %
+Magical Thornberry Chia Pop - .001 %
+Magical Pea Chia Pop - .00001 %
+nothing - 96.8 %
+Chiazilla - 1 %
+Pea Chia Plushie - 1 %
+Chia Book - 1 %
+The Pineapple Chia - 1 %
+Green Chia Plushie - 1 %
+ 
+ 
+Slug Monster 1
+Slugawoo Art - 2 %
+Slugawoo Adventures - 2 %
+The Great Slugawoo Mystery - 2 %
+nothing - 90 %
+Caring For Your Slugawoo - .07 %
+ 
+ 
+Slug Monster 2
+Slugawoo - 5 %
+Red Slugawoo - .1 %
+Blue Slugawoo - .1 %
+White Slugawoo - .1 %
+Brown Slugawoo - .1 %
+nothing - 90 %
+Slugawoo Adventures - 1 %
+ 
+ 
+Slug Monster 3
+Mutant Slugawoo - .01 %
+Cloud Slugawoo - .01 %
+Island Slugawoo - .01 %
+Tofu Space Slug Soup - .001 %
+nothing - 96 %
+Slugawoo - 1 %
+Red Slugawoo - .1 %
+Slugawoo Adventures - 1 %
+Blue Slugawoo - .1 %
+The Great Slugawoo Mystery - 1 %
+Caring For Your Slugawoo - 1 %
+ 
+ 
+The Drenched 2
+Evil Eldest Drenched Sister Plushie - .2 %
+The Drenched Stamp - .1 %
+Realm of the Water Faeries - 3 %
+Water Faerie Cupcake - 1 %
+nothing - 90 %
+Slightly Less Evil Youngest Drenched Sister Plushie - 1 %
+ 
+ 
+The Drenched 3
+Water Faerie Doll - .0000001 %
+Water Faerie Mushroom - .001 %
+Water Faerie Bubbles - .01 %
+Water Faerie Token - .000001 %
+nothing - 96.7 %
+Slightly Less Evil Youngest Drenched Sister Plushie - 1 %
+Moderately Evil Middle Drenched Sister Plushie - 1 %
+Evil Eldest Drenched Sister Plushie - .5 %
+The Drenched Stamp - 1 %
+Water Faerie Cupcake - 1 %
+Water Faeries of Neopia - 1 %
+ 
+ 
+The Drenched 1
+Slightly Less Evil Youngest Drenched Sister Plushie - 5 %
+Moderately Evil Middle Drenched Sister Plushie - 5 %
+nothing - 90 %
+Water Faeries of Neopia - 1 %
+ 
+ 
+Pant Devil 1
+Pant Devil Balloon - 25 %
+Pant Devil Pinata - 10 %
+Pant Devil Pumpkin - 5 %
+Pant Devil Punch Bag - 5 %
+nothing - 55 %
+ 
+ 
+Pant Devil 2
+Blue Paint Brush - .1 %
+Pant Devil Yoyo - 5 %
+Pant Devil Gnome - 5 %
+nothing - 89 %
+ 
+ 
+Pant Devil 3
+Fire, Fire, Your Pants On Fire Paint Brush - .005 %
+The Pant Devil - .005 %
+Pant Devil Plushie - .09 %
+nothing - 98 %
+Blue Scorchstone - .5 %
+Pant Devil Gnome - 1 %
+Pant Devil Yoyo - 1 %
+Pant Devil Pumpkin - 1 %
+ 
+ 
+Zafara Rogue 1
+Zafara Rogue - 7 %
+Pop-Up Zafara Book - 7 %
+Red Zafara Plushie - 7 %
+Zafara Hot Chocolate - 7 %
+nothing - 95 %
+ 
+ 
+Zafara Rogue 2
+Red Paint Brush - .5 %
+Darigan Zafara Plushie - 1 %
+Cherry Zafara Gummy - 2 %
+Zafara Veggie Stew - 8 %
+nothing - 90 %
+ 
+ 
+Mummy 1
+Scorchio Mummy - 8 %
+Mummy Tamales - 8 %
+Mummy Plushie - 3 %
+Wheres My Mummy - 3 %
+nothing - 95 %
+ 
+ 
+Mummy 2
+Tablet of The Mummy - 1 %
+nothing - 95 %
+Hand Wrap - 2 %
+Eliv Thade Wrap - 1 %
+Silver Wrapped Bottle of Sand - 1 %
+ 
+ 
+Mummy 3
+Mummy Bone Scroll - 2 %
+Zombie Aisha Morphing Potion - .001 %
+Zombie Flotsam Morphing Potion - .001 %
+Zombie Cybunny Morphing Potion - .001 %
+Zombie Usul Morphing Potion - .001 %
+nothing - 97.9 %
+Mummy Plushie - 1 %
+Tablet of The Mummy - 1 %
+Hand Wrap - 2 %
+ 
+ 
+Qasalan Mummy 1
+Cursed Qasalan Pancakes - 1 %
+Elegant Qasalan Falchion - .08 %
+Qasalan Etiquette - 10 %
+Our Neighbor Qasala - 7 %
+nothing - 90 %
+ 
+ 
+Qasalan Mummy 2
+Scorchio Mummy Monster Plushie - 1 %
+Techo Mummy Monster Plushie - 1 %
+Wocky Mummy Monster Plushie - 1 %
+Qasalan Tablet Stamp - 1 %
+nothing - 92 %
+Cursed Qasalan Pancakes - .05 %
+ 
+ 
+Qasalan Mummy 3
+Qasalan Mummy Stamp - .5 %
+Ruins of Qasala Stamp - .5 %
+Golden Qasalan Chestpiece - .05 %
+Qasalan Throwing Axe - .05 %
+Zombie Petpet Paint Brush - .009 %
+Zombie Paint Brush - .001 %
+Tablet of the Zombie - .9 %
+nothing - 96 %
+Scorchio Mummy Monster Plushie - 1 %
+Techo Mummy Monster Plushie - 1 %
+Wocky Mummy Monster Plushie - 1 %
+ 
+ 
+The Esophagor 1
+The Esophagor - 5 %
+Esophagor Stamp - 5 %
+Esophagor Bed - 5 %
+Tales of the Esophagor - 15 %
+nothing - 70 %
+ 
+ 
+The Esophagor 2
+Essence of Esophagor - 1 %
+Moonlit Esophagor Stamp - 5 %
+Esophagor Shelf Unit - 5 %
+nothing - 89 %
+ 
+ 
+The Esophagor 3
+NeoQuest II Esophagor Stamp - .001 %
+Haunted Wood Foreground - .01 %
+Creepy Cave Background - .01 %
+Essence of Esophagor - 2 %
+nothing - 96 %
+Moonlit Esophagor Stamp - 1 %
+The Esophagor - 1 %
+ 
+ 
+Edna 1
+Edna the Witch - 4 %
+Edna - 4 %
+Sand Witch - 4 %
+Witchcraft Spells - 9 %
+nothing - 90 %
+ 
+ 
+Edna 2
+Edna Costume Hat - .08 %
+Green Zafara Morphing Potion - .02 %
+Halloween Lenny Plushie - .08 %
+Ednas Spooky Brew - .02 %
+Zafara Surprise - 7 %
+nothing - 91 %
+Edna the Witch - 1 %
+ 
+ 
+Edna 3
+Edna Plushie - .001 %
+Edna the Zafara Stamp - .01 %
+Halloween Lenny Morphing Potion - .001 %
+Halloween Peophin Plushie - .001 %
+Halloween Korbat Morphing Potion - .001 %
+nothing - 97.7 %
+Edna - 1 %
+Edna the Witch - 1 %
+ 
+ 
+Meuka 1
+Snot Brucicle - 2 %
+Snotty Ghost Toast - 2 %
+Buzz Snot - 2 %
+Pack of Snot-Flavoured Gum - 8 %
+nothing - 90 %
+ 
+ 
+Meuka 2
+Snot My Fault - 2 %
+Lime Meerca Gobstopper - 6 %
+Green Meerca Morphing Potion - .05 %
+Snot Quiggle Plushie - .05 %
+nothing - 90 %
+ 
+ 
+Meuka 3
+Snotbunny - .001 %
+Meerca Spy Stamp - .0001 %
+Meerca Pie - .001 %
+Captain Meerca - .001 %
+nothing - 98 %
+Green Meerca Morphing Potion - .1 %
+Snot My Fault - 1 %
+Snot Quiggle Plushie - 1 %
+ 
+ 
+Count Von Roo 3
+Count Von Roo Plushie Stamp - .0009 %
+Count Von Roo Stamp - .0001 %
+Halloween Blumaroo Plushie - 0.2 %
+Halloween Blumaroo Morphing Potion - .002 %
+nothing - 96.6 %
+Bouncing Blumaroos - 2.99 %
+The Legend of Count von Roo - 1 %
+Count Von Roo Pinata - 1 %
+ 
+ 
+Sidney 1
+Blue Nimmo Plushie - 8 %
+Headless Sidney Plushie - 2 %
+Sssidney Lolly - 2 %
+nothing - 90 %
+Lemon Nimmo Cake - 5 %
+ 
+ 
+Sidney 2
+Deserted Fairground Card - .001 %
+Nimmo Lily Stones - .01 %
+Notable Nimmos - 2 %
+Nimmo Genealogy - 1 %
+The Nimmo Who Loved to Read - 2 %
+nothing - 90 %
+Sssidney Lolly - .5 %
+ 
+ 
+Sidney 3
+Sidney Plushie - .001 %
+Blue Nimmo Morphing Potion - .005 %
+Magical Blue Nimmo Plushie - .001 %
+Hopping Nimmo Action Figure (with awesome LEG POWER!) - .69 %
+Nimmo Topiary - 3 %
+nothing - 96 %
+Sssidney Lolly - .5 %
+Blue Nimmo Plushie - .5 %
+ 
+ 
+The Black Pteri 1
+Black Granite Tablet - 10 %
+Large Black and White Collectable Scarab - 5 %
+Black Jewelled Collar - 10 %
+nothing - 90 %
+Black Skull Candle - 10 %
+Shadow Pteri Plushie - 1 %
+ 
+ 
+The Black Pteri 2
+Gothic Pteri Plushie - 4.9 %
+The Black Pawkeet Stamp - .001 %
+Black Fan of Shenkuu - 1 %
+Milk Chocolate Pteri - 7 %
+nothing - 95 %
+Shadow Pteri Plushie - 1 %
+Black Skull Candle - 1 %
+ 
+ 
+The Black Pteri 3
+Regal Black Robe - .01 %
+Black Velvet Cloak - .01 %
+Black Currant Juice - .01 %
+Forbidden Pteri Tales - .5 %
+Wraith Pteri Morphing Potion - .0001 %
+nothing - 97 %
+Gothic Pteri Plushie - 1 %
+Shadow Pteri Plushie - 1 %
+Black Skull Candle - 1 %
+ 
+ 
+The Brain Tree 1
+Brain Kebab - 10 %
+Brain Muffin - 5 %
+Brain Tree Lolly - 1 %
+nothing - 69 %
+Brain Hot Dog - 15 %
+ 
+ 
+The Brain Tree 2
+Brains and Dumplings - .1 %
+Brain Ice Cream - 1.9 %
+Brain Stew - 5.5 %
+nothing - 90 %
+Brain Tree Stamp - 2 %
+Brain Tree Lolly - 1 %
+ 
+ 
+The Brain Tree 3
+The Brain Tree - .001 %
+Brain Trees Brainiac - .001 %
+Spaghetti and Brains - .01 %
+Glowing Brain Tree Stamp - .1 %
+Pulsating Brain Custard - .1 %
+nothing - 97 %
+Brain Tree Stamp - 1 %
+Brain Tree Lolly - 1 %
+Brains and Dumplings - 1 %
+ 
+ 
+Jelly Chia 1
+Lemberry Chia Jelly - 8 %
+Jelly Sushi - 8 %
+Jelly Muffin - 10 %
+nothing - 95 %
+Jelly Chia - 8 %
+ 
+ 
+Jelly Chia 2
+Bleeding Heart Jelly Sundae - 1 %
+Blueberry Jelly Hot Dog - 9 %
+Jelly Jelly Jar - .05 %
+Jelly Mysteries - .05 %
+nothing - 95 %
+Jelly Muffin - 1 %
+ 
+ 
+Jelly Chia 3
+Jelly Pop Stamp - .5 %
+Jelly World Stamp - .5 %
+Blueberry Jelly Shield - 1 %
+Joy of Jelly Kaus - .02 %
+Blueberry Jelly Sword - .04 %
+nothing - 95 %
+Jelly Spider Eyeball - .02 %
+Jelly Negg - .02 %
+Jelly Chia - 1 %
+Jelly Muffin - 1 %
+Jelly Mysteries - .5 %
+ 
+ 
+Greedy Kadoatie 1
+Greedy Kadoatie Cap - 5 %
+Greedy Kadoatie Piggy Bank - 5 %
+Kadoatie Dot to Dot - 5 %
+Greedy Kadoatie T-shirt - 2 %
+Blue Kadoatie Plushie - .06 %
+nothing - 90 %
+ 
+ 
+Greedy Kadoatie 2
+Origami Kadoatie - .04 %
+Kadoatie Puffs - 2 %
+Pink Kadoatie Backpack - .08 %
+Clawed Kadoatie Plushie - 2 %
+nothing - 90 %
+ 
+ 
+Greedy Kadoatie 3
+Kadoatie Biscuits - .0001 %
+Kadoatie - .0001 %
+Valentines Kadoatie Plushie - .1 %
+Greedy Kadoatie Plushie - .1 %
+nothing - 97 %
+Greedy Kadoatie Piggy Bank - 1 %
+Kadoatie Puffs - 1 %
+Origami Kadoatie - .08 %
+ 
+ 
+Spider Grundo 1
+Spider on a String - 2 %
+Toy Spider Ring - 10 %
+Spyder - 15 %
+Orange Spyder Candle - 5 %
+nothing - 90 %
+ 
+ 
+Spider Grundo 2
+Scary Spider - 1 %
+Spiderweb Folder - 2 %
+Spyder Web Rug - 1 %
+Spider Licorice - 5 %
+nothing - 95 %
+Spyder - 1 %
+Orange Spyder Candle - 1 %
+ 
+ 
+Spider Grundo 3
+Spider Grundo Plushie - .01 %
+The Spider Grundo - .01 %
+Jar of Spiders - .001 %
+Spyder Stone Necklace - .5 %
+nothing - 96 %
+Spider Licorice - 1 %
+Orange Spyder Candle - 1 %
+Spider on a String - 1 %
+ 
+ 
+Giant Ghostkerchief 1
+Ghostkerchief Rag Doll - 3 %
+Ghostkerscarf - 3 %
+Ghostkerchief Greeting Card - 3 %
+Ghostmallow Smore - .05 %
+nothing - 90 %
+ 
+ 
+Giant Ghostkerchief 2
+Magic Ghost Marshmallows - 6 %
+Ghostly Torch - 3 %
+Ghost Hissi Plushie - .07 %
+Ghostkerchief Plushie - .07 %
+nothing - 90 %
+Ghostmallow Smore - .05 %
+ 
+ 
+Giant Ghostkerchief 3
+Giant Ghostkerchief Coin - .001 %
+Ghostkerchief Hammer - 1 %
+Ghost Paint Brush - .001 %
+Ghost Petpet Paint Brush - .001 %
+Ghostkersword - .0000001 %
+nothing - 95 %
+Magic Ghost Marshmallows - 1 %
+Ghostmallow Smore - .05 %
+nothing - 1 %
+ 
+ 
+Balthazar 1
+Blue Lupe Paw Lolly - 5 %
+Lupe Mysteries - 10 %
+Lupe Booster Pack - 1 %
+Blueberry Lupe Waffles - 5 %
+nothing - 79 %
+ 
+ 
+Balthazar 2
+Gigantic Balthazar Plushie - 2 %
+Balthazar Pinata - 2 %
+Inflatable Balthazar - 1 %
+Chocolate Balthazar - 2 %
+Balthazar Action Figure - 1 %
+nothing - 92 %
+Blueberry Lupe Waffles - 1 %
+ 
+ 
+Harry the Mutant Moehog 1
+nothing - 90 %
+Moehog Decorating Tips - 4 %
+Moehog Mud Bomb - 3 %
+Moehog Battle Goggles - 5 %
+Moehog News - 3 %
+ 
+ 
+Harry the Mutant Moehog 2
+nothing - 95 %
+Moehog Mud Bomb - 2 %
+Tusk Care For Moehogs - 1 %
+Red Moehog Morphing Potion - .5 %
+Moehog News - 2 %
+ 
+ 
+Harry the Mutant Moehog 3
+nothing - 80 %
+Mutant Moehog Plushie - .5 %
+Moehog Transmogrification Potion - .5 %
+Tusk Care For Moehogs - 2 %
+Red Moehog Morphing Potion - 2 %
+ 
+ 
+Mutated Chia 1
+nothing - 80 %
+Florg the Devourer - 5 %
+Mutant Chia Plushie - 3 %
+ 
+ 
+Mutated Chia 2
+nothing - 80 %
+Chianatomy - .01 %
+Mutant Chia Plushie - 3 %
+Mutant Evil Fuzzle - 1.6 %
+ 
+ 
+Mutated Chia 3
+nothing - 80 %
+Chia Transmogrification Potion - .01 %
+Chianatomy - .01 %
+Mutant Chia Plushie - 3 %
+Mutant Evil Fuzzle - 1.6 %
+ 
+ 
+Space Faerie 1
+nothing - 80 %
+Space Faerie Sword - 1 %
+Brilliant Star Potion - 2 %
+Exploding Space Bugs Stamp - .5 %
+ 
+ 
+Space Faerie 2
+nothing - 80 %
+Space Faerie Sword - 1 %
+Astral Blade of The Space Station - .5 %
+Brilliant Star Potion - 2 %
+Exploding Space Bugs Stamp - .5 %
+ 
+ 
+Space Faerie 3
+nothing - 80 %
+Space Faerie Sword - 1 %
+Space Faerie Stamp - .08 %
+Astral Blade of The Space Station - .5 %
+Starry Paint Brush - .03 %
+Brilliant Star Potion - 1 %
+Amulet of the Sun - .4 %
+Exploding Space Bugs Stamp - .5 %
+ 
+ 
+Evil Sloth Clone 1
+nothing - 90 %
+Clone #177 Plushie - 1 %
+Rules to Rule By - 2 %
+Grinning Sloth Stamp - 3 %
+ 
+ 
+Evil Sloth Clone 2
+nothing - 80 %
+Clone #177 Plushie - 1 %
+Rules to Rule By - 2 %
+Grinning Sloth Stamp - 3 %
+ 
+ 
+Evil Sloth Clone 3
+nothing - 90 %
+Rules to Rule By - 2 %
+Grinning Sloth Stamp - 3 %
+Armoured Negg - .05 %
+Evil Negg - .05 %
+ 
+ 
+Magnus the Torch 3
+nothing - 90 %
+Fire Spell - .2 %
+Fire Faerie Sword - 1 %
+Flaming Bow Of Fire - .05 %
+Tyrannian Plateau Stamp - .1 %
+ 
+ 
+Magnus the Torch 2
+nothing - 90 %
+Flask of Liquid Fire - .08 %
+Fire Spell - .2 %
+Flaming Bow Of Fire - .05 %
+Tyrannian Plateau Stamp - .1 %
+Tyrannian Lupe Tooth - 1 %
+ 
+ 
+Magnus the Torch 1
+nothing - 90 %
+Flask of Liquid Fire - .08 %
+Fire Faerie Sword - 1 %
+Tyrannian Lupe Tooth - 1 %
+ 
+ 
+Robo Grarrl 1
+nothing - 90 %
+Just Like Clockwork - 3 %
+Grarrl Terror Blade - 2.5 %
+Lucky Robots Foot - 2 %
+ 
+ 
+Robo Grarrl 2
+nothing - 90 %
+Just Like Clockwork - 3 %
+Grarrl Terror Blade - 2.5 %
+Lucky Robots Foot - 2 %
+Robot Muffin - 1 %
+ 
+ 
+Robo Grarrl 3
+nothing - 90 %
+Grarrl Claws of Doom - .8 %
+Grarrl Claw - .1 %
+Just Like Clockwork - 3 %
+Grarrl Terror Blade - 2.5 %
+Lucky Robots Foot - 2 %
+Robot Muffin - 1 %
+ 
+ 
+Highland Chia 3
+nothing - 80 %
+Tartan Snowball - 1 %
+Chia Barbarian Beard - .02 %
+Sword of Fallen Twigs - .009 %
+Sturdy Battle Shield - .8 %
+School Girl Plaid Skirt - .001 %
+ 
+ 
+Highland Chia 2
+nothing - 90 %
+Tartan Snowball - 1 %
+Chia Barbarian Beard - .02 %
+Sturdy Battle Shield - .8 %
+ 
+ 
+Highland Chia 1
+nothing - 90 %
+Tartan Snowball - 1 %
+Chia Barbarian Beard - .02 %
+Sturdy Battle Shield - .8 %
+ 
+ 
+Quiggle Warlord 1
+nothing - 90 %
+Altadorian Body Armour - .05 %
+Protective Lime Helmet - 1 %
+Gilded Winged Helm - 2 %
+ 
+ 
+Quiggle Warlord 2
+nothing - 80 %
+Plathydon - .02 %
+Altadorian Body Armour - .05 %
+Protective Lime Helmet - 1 %
+Gilded Winged Helm - 2 %
+ 
+ 
+Quiggle Warlord 3
+nothing - 90 %
+Legend Of The Quiggle Runner - .01 %
+Green Quiggle Morphing Potion - .01 %
+Plathydon - .02 %
+Altadorian Body Armour - .05 %
+Protective Lime Helmet - 1 %
+Gilded Winged Helm - 2 %
+ 
+ 
+Cave Chia 2
+nothing - 80 %
+Lair Beast Claw - .1 %
+Rotten Egg Stink Bomb - .08 %
+Tyrannian Lupe Tooth - .08 %
+Chia Bomber Plushie - 1 %
+Stone Helmet - 1 %
+ 
+ 
+Sabre-X 2
+nothing - 90 %
+Tyrannian Lupe Tooth - 1 %
+Bony Bracers - 2 %
+Cave Lupe Neoquest Plushie - 1 %
+Dire Lupe Neoquest Plushie - 1 %
+Lupe Wand - 1 %
+ 
+ 
+Sabre-X 1
+nothing - 90 %
+Tyrannian Lupe Tooth - 1 %
+Bony Bracers - 2 %
+Cave Lupe Neoquest Plushie - 1 %
+Dire Lupe Neoquest Plushie - 1 %
+Lupe Wand - 1 %
+ 
+ 
+Giant Hungry Malevolent Chomby 3
+nothing - 90 %
+Magical Blue Chomby Plushie - .001 %
+Chomby Stamp - .08 %
+The Chomby Champion - 1 %
+Blue Paint Brush - .01 %
+Blue Acko - .08 %
+Fern Salad - 1 %
+ 
+ 
+Giant Hungry Malevolent Chomby 2
+nothing - 90 %
+Chomby Stamp - .08 %
+The Chomby Champion - 1 %
+Blue Acko - .08 %
+Fern Salad - 1 %
+ 
+ 
+Giant Hungry Malevolent Chomby 1
+nothing - 90 %
+Chomby Stamp - .08 %
+The Chomby Champion - 1 %
+Fern Salad - 1 %
+ 
+ 
+Kastraliss 3
+nothing - 90 %
+Kastraliss Action Figure - .01 %
+Darkness Potion - 1 %
+Scroll of Dark Nova - .08 %
+Amulet of the Dark Faerie - .05 %
+Dark Tales of Bogshot - .08 %
+Spying The Dark Faerie Way - 1 %
+Darkness Faerie Axe - .05 %
+ 
+ 
+Kastraliss 2
+nothing - 90 %
+Darkness Potion - 1 %
+Scroll of Dark Nova - .08 %
+Dark Tales of Bogshot - .08 %
+Spying The Dark Faerie Way - 1 %
+Darkness Faerie Axe - .05 %
+ 
+ 
+Kastraliss 1
+nothing - 90 %
+Darkness Potion - 1 %
+Scroll of Dark Nova - .08 %
+Dark Tales of Bogshot - .08 %
+Spying The Dark Faerie Way - 1 %
+ 
+ 
+Cybunny Scout 3
+nothing - 90 %
+Scout Unit - 1 %
+Cybunny Carrot Stew - 2 %
+Carrot Growing - .05 %
+Cybunny Scout Usuki - .02 %
+Scout Unit - 1 %
+Mega Carrot Blaster - .08 %
+ 
+ 
+Cybunny Scout 2
+nothing - 90 %
+Scout Unit - 1 %
+Mega Carrot Blaster - .08 %
+Cybunny Carrot Stew - 2 %
+Carrot Growing - .05 %
+ 
+ 
+Cybunny Scout 1
+nothing - 90 %
+Scout Unit - 1 %
+Cybunny Carrot Stew - 2 %
+Carrot Growing - .05 %
+ 
+ 
+S750 Kreludan Defender Robot 3
+nothing - 90 %
+Kreludan Defender Plushie - 1 %
+Computing the Kreludan Way - .02 %
+Kreludan Mysteries - .08 %
+Fizzy Neocola Bottles - 1 %
+Stopngo 400 - .05 %
+Vial of Fragrant Oil - .08 %
+ 
+ 
+S750 Kreludan Defender Robot 2
+nothing - 90 %
+Kreludan Defender Plushie - 1 %
+Kreludan Mysteries - .08 %
+Fizzy Neocola Bottles - 1 %
+Stopngo 400 - .05 %
+Vial of Fragrant Oil - .08 %
+ 
+ 
+S750 Kreludan Defender Robot 1
+nothing - 90 %
+Kreludan Defender Plushie - 1 %
+Kreludan Mysteries - .08 %
+Fizzy Neocola Bottles - 1 %
+Vial of Fragrant Oil - .08 %
+ 
+ 
+Neopets v2 1
+nothing - 90 %
+Neopet V2 Guide to Revenge - 2 %
+Blue Rambus - .05 %
+Virtupets BX-288 Boots - 1 %
+8-Bit Mystery Island Background - .08 %
+ 
+ 
+Neopets v2 2
+nothing - 90 %
+Neopet V2 Guide to Revenge - 2 %
+Neopet Version 2 Stamp - .02 %
+Blue Rambus - .5 %
+Virtupets BX-288 Boots - 1 %
+8-Bit Mystery Island Background - .8 %
+ 
+ 
+Neopets v2 3
+nothing - 90 %
+Neopet V2 Guide to Revenge - 2 %
+Neopet Version 2 Stamp - .2 %
+Blue Rambus - .5 %
+8-bit Power-Up Potion - .001 %
+8-Bit Mushroom - .05 %
+Virtupets BX-288 Boots - 1 %
+8-Bit Mystery Island Background - .8 %
